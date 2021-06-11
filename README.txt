@@ -1,3 +1,1 @@
-Commit 1
-
-Putri Aliffiantika Sari
+G.231.19.0089 - Putri Aliffiantika Sari Kota Semarang

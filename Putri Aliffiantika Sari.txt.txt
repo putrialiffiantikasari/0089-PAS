@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+G.231.19.0089 - Putri Aliffiantika Sari - USM Jaya
+
+Universitas Semarang
+Fakultas Teknologi Informasi dan Komunikasi
+Jl. Soekarno-Hatta, Tlogosari Kulon
+Kota Semarang, Jawa Tengah, Indonesia
+=======
+
+
+
+Jl. Soekarno-Hatta, Tlogosari Kulon
+
+Kota Semarang,Jawa Tengah,Indonsia
+>>>>>>> sub-0089-PAS
